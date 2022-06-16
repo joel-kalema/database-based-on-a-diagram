@@ -1,4 +1,4 @@
-# Vet Clinic
+# Database Based on a Diagram
 
 ## Getting Started
 
@@ -16,7 +16,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 - [LinkedIn](https://www.linkedin.com/in/emesemesimolnar/)
 - [Twitter](https://twitter.com/buksimesi21)
 
-#### :bust_in_silhouette: Joel kalema
+#### :bust_in_silhouette: Joel Kalema
 
 - [joel-kalema](https://github.com/Mesi21)
 - [LinkedIn](https://www.linkedin.com/in/joel-kalema-30518a230/)
@@ -34,9 +34,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- Coding team
 
 ## 📝 License
 
