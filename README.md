@@ -1,56 +1,26 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+# Vet Clinic
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+This repository includes files with plain SQL that can be used to recreate a database:
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
 ## Authors
 
-👤 **Author1**
+#### :bust_in_silhouette: Molnar Emese
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [Mesi21](https://github.com/Mesi21)
+- [LinkedIn](https://www.linkedin.com/in/emesemesimolnar/)
+- [Twitter](https://twitter.com/buksimesi21)
 
-👤 **Author2**
+#### :bust_in_silhouette: Joel kalema
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [joel-kalema](https://github.com/Mesi21)
+- [LinkedIn](https://www.linkedin.com/in/joel-kalema-30518a230/)
+- [Twitter](https://twitter.com/JoelJklm)
 
 ## 🤝 Contributing
 
@@ -70,4 +40,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+- This project is [MIT](LICENSE.md) licensed.
